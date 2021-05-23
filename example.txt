@@ -1,7 +1,4 @@
 lub
 i love you
-<<<<<<< HEAD
 i love github wuhu
-=======
 i love github
->>>>>>> bc49e1ff04db3f2261508bf2dbb418041d0d1ae5
